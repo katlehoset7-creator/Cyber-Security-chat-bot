@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "recording", "recording\recording.csproj", "{2C8583A0-FE8F-41EE-BB5D-E7D36D8E4573}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C8583A0-FE8F-41EE-BB5D-E7D36D8E4573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C8583A0-FE8F-41EE-BB5D-E7D36D8E4573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C8583A0-FE8F-41EE-BB5D-E7D36D8E4573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C8583A0-FE8F-41EE-BB5D-E7D36D8E4573}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CBE11A9-012C-4E23-9DE6-28E14558D868}
+	EndGlobalSection
+EndGlobal
