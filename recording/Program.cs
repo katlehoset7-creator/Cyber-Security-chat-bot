@@ -9,12 +9,8 @@ namespace recording
         static void Main(string[] args)
         {
             // Get the location where the application is currently running.
-            // This makes the audio file path work on different computers.
-            string audioPath = Path.Combine(
-                AppContext.BaseDirectory,
-                "Properties",
-                "voice",
-                "greeting.wav"
+// This makes the audio file path work on different computers.
+string audioPath = "C:\\Users\\Student\\source\\repos\\recording\\recording\\Properties\\voice\\greeting_1.wav";
             );
 
             // Check whether the greeting audio file exists before
